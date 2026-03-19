@@ -30,7 +30,7 @@
 
 1. Clone the repository:
 
-   git clone https://github.com/Chirag6667/TalentLens
+   git clone https://github.com/Chirag6667/TalentLens    
    cd TalentLens
 
 2. Create and activate virtual environment:
@@ -81,12 +81,13 @@ or asking multiple questions at once.
 ## 📁 Project Structure
 
 TalentLens/    
-├── app.py          → Main Streamlit application   
-├── prompts.py      → LLM system prompt and messages   
-├── utils.py        → Helper functions and info extraction      
-├── styles.py       → Custom CSS dark navy + gold theme    
-├── requirements.txt     
-└── README.md     
+├── README.md     
+├── app.py          → Main Streamlit application        
+├── prompts.py      → LLM system prompt and messages     
+├── utils.py        → Helper functions and info extraction         
+├── styles.py       → Custom CSS dark navy + gold theme      
+└──requirements.txt       
+     
 
 ---
 
